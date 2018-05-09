@@ -1,0 +1,3 @@
+rootProject.name = 'EMtune'
+
+include ':app'
